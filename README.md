@@ -26,7 +26,7 @@ El programa se ejecuta en un bucle infinito, alternando entre mostrar las matric
 
 ## Instalación y Uso
 
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/nombre_del_repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/DanHxH/C--Control-de-Matrices-LED-con-Arduino.git`
 2. Abre el archivo `.ino` en el IDE de Arduino.
 3. Conecta tu Arduino y sube el programa.
 
